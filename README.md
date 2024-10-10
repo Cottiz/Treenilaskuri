@@ -1,8 +1,8 @@
 # Projektin nimi
 Lydia ja Katin supertreenilaskuri
 
-## Demo link:
-Pääset supertreenilaskuriimme tästä
+## Linkki sovellukseen
+Pääset supertreenilaskuriimme täältä: 
 
 ## Työnjako
 Yhteistyömme sujui mutkattomasti ja saimme jaettua tehtävät hyvin ja reilusti.
@@ -24,26 +24,30 @@ Luomamme sovelluksen nimi on Lydian ja Katin supertreenilaskuri.
 Sovelluksemme tarkoitus on pitää kirjaa käyttäjän treeneistä. Sovellukseen voi kirjata mitä lajia on harjoittanut, montako tuntia, lisätä tarkemman kuvauksen treenistä ja merkitä päivämäärän.
 
 Tiedot kirjautuvat Treeniyhteenveto-taulukkoon ja ne pysyvät muuttumattomina niin kauan, kunnes käyttäjä tyhjentää tiedot. 
-Taulukon alle, sovellus laskee kategorioittain prosentteina ja tunteina, kuinka pal-jon mitäkin urheilulajia on harjoitettu. Taulukon voi tyhjentää helposti käyttämäl-lä tyhjennä nappulaa, jolloin ohjelma antaa käyttäjälle ilmoituksen, että olet tyh-jentämässä taulukon.
+Taulukon alle, sovellus laskee kategorioittain prosentteina ja tunteina, kuinka paljon mitäkin urheilulajia on harjoitettu. Taulukon voi tyhjentää helposti käyttämällä tyhjennä nappulaa, jolloin ohjelma antaa käyttäjälle ilmoituksen, että olet tyh-jentämässä taulukon.
 
 ## Kuvia sovelluksesta
 ![Sovelluksen kuvakaappaus](kuvalaskurista.png)
 
 ## Käytetyt menetelmät
-Teknologiat, joita käytimme tämän projektin tekemiseen olivat html, css sekä Javascript.
+Teknologiat, joita käytimme tämän projektin tekemiseen olivat HTML, CSS sekä Javascript.
 
-HTML:ää käytimme verkkosivun luomiseen. 
+HTML:ää käytimme verkkosivun rakenteen ja sisällön luomiseen. Jokainen sovelluksen osa, kuten lomake treenitietojen syöttämiseksi ja taulukko yhteenvetojen näyttämiseksi, on rakennettu HTML-elementeillä. Lisäksi käytimme HTML:ää luomaan painikkeet, kuten "Tyhjennä taulukko" -toiminnon, ja varmistimme, että sivusto on selkeästi jäsennelty ja helppokäyttöinen. 
 
-CSS:ällä määrittelimme sovelluksen tarkemman ulkomuodon, kuten värityksen, elementtien koot ja muodot sekä fontit.
+CSS:ällä määrittelimme sovelluksen tarkemman ulkomuodon, kuten värityksen, elementtien koot, muodot sekä fontit.
 
-JavaScrptillä loimme sovelluksen elemnettien toiminnallisuudet. 
+JavaScriptillä loimme sovelluksen toiminnallisuudet ja interaktiivisuuden. Se vastaa mm. treenitietojen tallentamisesta ja laskemisesta sekä treeniyhteenvedon päivittämisestä. Käytimme JavaScriptiä seuraaviin toimintoihin:
+
+- Tietojen syöttäminen ja validointi: Käyttäjän syöttämät tiedot, kuten treenin laji ja kesto, tallennetaan taulukkoon.
+- Laskenta: Sovellus laskee automaattisesti urheilulajien prosenttijakauman ja yhteistreenimäärät.
+- Tiedonhallinta: Treenitietojen poistaminen onnistuu "Tyhjennä" -painikkeella, joka myös varmistaa käyttäjältä, ennen kuin tiedot poistetaan pysyvästi.
+- Tiedon tallentaminen: Käytimme JavaScriptin localStorage-ominaisuutta tietojen tallentamiseen, jotta tiedot säilyvät selaimen päivittämisen tai sulkemisen välillä, kunnes käyttäjä päättää tyhjentää ne.
 
 ## Sovelluksen käyttö
 Alla ohjeet käyttäjälle sovelluksen käyttöönottoon:
 - Lataa kaikki tiedostot omalle koneelle 
 - Avaa treeni.html tiedosto haluamallasi selaimella
 - Voit joko ladata tai kloonata repositorin 
-
 
 ## Status
 Lydian ja Katin supertreenilaskuri on vielä kehitystyön alla. Lisää toiminnallisuuksia tulossa sovelluksen versiossa 2.0, joka julkaistaan helmikuussa 2025.
