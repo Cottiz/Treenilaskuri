@@ -9,13 +9,13 @@ How was the workload divided. Who did what?
 
 ## Table of Content:
 
-- [Tiedot sovelluksesta](#about-the-app)
-- [Kuvia sovelluksesta](#screenshots)
-- [Käytetyt menetelmät](#technologies)
-- [Sovelluksen käyttö](#setup)
+- [Tiedot sovelluksesta](#Tiedot)
+- [Kuvia sovelluksesta](#Kuvia)
+- [Käytetyt menetelmät](#Käytetyt)
+- [Sovelluksen käyttö](#Sovelluksen)
 - [Status](#status)
-- [Tekijät ja lähteet](#credits)
-- [Lisenssi](#license)
+- [Tekijät ja lähteet](#Tekijät)
+- [Lisenssi](#Lisenssi)
 
 ## Tiedot sovelluksesta
 [Name of project] is an app that ...
