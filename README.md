@@ -28,7 +28,8 @@ Taulukon alle, sovellus laskee kategorioittain prosentteina ja tunteina, kuinka 
 
 ## Kuvia sovelluksesta
 Add here atleast one screenshot of the working application 
-
+## Kuvia sovelluksesta
+![Sovelluksen kuvakaappaus](kuvalaskurista.png)
 ## Käytetyt menetelmät
 Teknologiat, joita käytimme tämän projektin tekemiseen olivat html, css sekä Javascript.
 
