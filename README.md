@@ -11,10 +11,10 @@ Kati teki suurimman työn koodatessaan pohjan sovelluksellemme. Työstimme lopuk
 
 ## Sisältö:
 
-- [Tiedot sovelluksesta](#Tiedot)
-- [Kuvia sovelluksesta](#Kuvia)
-- [Käytetyt menetelmät](#Käytetyt)
-- [Sovelluksen käyttö](#Sovelluksen)
+- [Tiedot sovelluksesta](#Tiedot-sovelluksesta)
+- [Kuvia sovelluksesta](#Kuvia-sovelluksesta)
+- [Käytetyt menetelmät](#Käytetyt-menetelmät)
+- [Sovelluksen käyttö](#Sovelluksen-käyttö)
 - [Status](#status)
 - [Tekijät ja lähteet](#Tekijät-ja-lähteet)
 - [Lisenssi](#Lisenssi)
