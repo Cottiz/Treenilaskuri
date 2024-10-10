@@ -54,19 +54,17 @@ Lydian ja Katin supertreenilaskuri on vielä kehitystyön alla. Lisää toiminna
 ## Tekijät ja lähteet
 Sovelluksen kehittivät Lydia Palosaari ja Kati Tuukkanen.
 
-Sovelluksen tekemisessä on käytetty apuna ChatGPT
-ä ja CoPilottia. Tekoälytyökalut olivat merkittävä apu sovelluksen kehittämisessä, erityisesti JavaScript-toimintojen luomisessa ja HTML-rakenteen muokkaamisessa.
+Sovelluksen tekemisessä on käytetty apuna ChatGPT:tä ja CoPilottia.
 
-ChatGPT auttoi meitä erityisesti ymmärtämään monimutkaisia JavaScript-käsitteitä ja -toimintoja, kuten funktioiden käyttöä, tietojen tallennusta localStorageen sekä taulukkojen dynaamista luomista ja päivittämistä. Kun kohtasimme ongelmia esimerkiksi tietojen laskemisessa ja niiden näyttämisessä oikein käyttöliittymässä, ChatGPT tarjosi selkeitä ratkaisuja ja koodiesimerkkejä, joita pystyimme helposti mukauttamaan projektiimme.
+- ChatGPT auttoi meitä erityisesti ymmärtämään monimutkaisia JavaScript-käsitteitä ja -toimintoja, kuten funktioiden käyttöä, tietojen tallennusta localStorageen sekä taulukkojen dynaamista luomista ja päivittämistä. Kun kohtasimme ongelmia esimerkiksi tietojen laskemisessa ja niiden näyttämisessä oikein käyttöliittymässä, ChatGPT tarjosi selkeitä ratkaisuja ja koodiesimerkkejä, joita pystyimme helposti mukauttamaan projektiimme.
 
-Esimerkkinä yksi haaste oli laskea eri urheilulajien prosenttijakauma käyttäjän syöttämien tietojen perusteella. ChatGPT auttoi meitä ymmärtämään, miten voimme käyttää JavaScriptin matemaattisia funktioita ja logiikkaa tämän laskennan suorittamiseen sekä näyttää tulokset suoraan käyttöliittymässä.
-GitHub Copilot puolestaan tarjosi koodiehdotuksia reaaliajassa ja nopeutti koodin kirjoittamista huomattavasti. Copilotin avulla saimme rakennettua toimintoja nopeammin, kuten automaattisen syöttötietojen validoinnin ja taulukon tietojen tyhjennyksen varoitusviestin kanssa. Copilotin ehdotukset toimivat hyvänä lähtökohtana, joita mukautimme oman projektimme tarpeisiin.
+- GitHub Copilot puolestaan tarjosi koodiehdotuksia reaaliajassa ja nopeutti koodin kirjoittamista huomattavasti. Copilotin avulla saimme rakennettua toimintoja nopeammin, kuten automaattisen syöttötietojen validoinnin ja taulukon tietojen tyhjennyksen varoitusviestin kanssa. Copilotin ehdotukset toimivat hyvänä lähtökohtana, joita mukautimme oman projektimme tarpeisiin.
 
 Tekoäly ei pelkästään auttanut ratkaisujen löytämisessä, vaan se myös syvensi ymmärrystämme ohjelmoinnista kokonaisuudessaan. Sen avulla opimme enemmän mm. seuraavista aiheista:
 
-Funktiot: Miten luoda uudelleenkäytettäviä funktioita, jotka suorittavat toistuvia tehtäviä, kuten tietojen tallentamista ja päivittämistä.
-Taulukot: Ymmärsimme paremmin, miten taulukoiden käsittely toimii JavaScriptissä, esimerkiksi miten lisätä uusia rivejä taulukkoon dynaamisesti käyttäjän syöttämien tietojen perusteella.
-LocalStorage: Opimme, miten localStorage-ominaisuutta voi hyödyntää tietojen tallentamiseen niin, että ne säilyvät selainistuntojen välillä.
+- Funktiot: Miten luoda uudelleenkäytettäviä funktioita, jotka suorittavat toistuvia tehtäviä, kuten tietojen tallentamista ja päivittämistä.
+- Taulukot: Ymmärsimme paremmin, miten taulukoiden käsittely toimii JavaScriptissä, esimerkiksi miten lisätä uusia rivejä taulukkoon dynaamisesti käyttäjän syöttämien tietojen perusteella.
+- LocalStorage: Opimme, miten localStorage-ominaisuutta voi hyödyntää tietojen tallentamiseen niin, että ne säilyvät selainistuntojen välillä.
 
 ## Lisenssi
 MIT license
