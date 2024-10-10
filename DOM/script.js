@@ -1,9 +1,10 @@
+// Tämä varmistaa, että koodi suoritetaan vasta kun koko html sivu on ladattu    
 document.addEventListener('DOMContentLoaded', () => {
-    const form = document.getElementById('treeni-form');
-    const summaryBody = document.getElementById('summary-body');
-    const errorMessage = document.getElementById('error-message');
-    const clearButton = document.getElementById('tyhjenna');
-    let data = JSON.parse(localStorage.getItem('treeniData')) || [];
+    const form = document.getElementById('treeni-form'); // viittaa lomakkeeseen, johon käyttäjä syöttää tiedot
+    const summaryBody = document.getElementById('summary-body'); // viittaa taulukkoon, johon tiedot syötetään
+    const errorMessage = document.getElementById('error-message'); // näyttää mahdolliset virheilmoitukset
+    const clearButton = document.getElementById('tyhjenna'); // viittaa tyhjennä-nappiin
+    let data = JSON.parse(localStorage.getItem('treeniData')) || []; // haetaan tallennetut tiedot localStoragesta
 
     // Näytetään tallennetut tiedot
     renderTable();
