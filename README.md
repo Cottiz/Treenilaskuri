@@ -16,7 +16,7 @@ Kati teki suurimman työn koodatessaan pohjan sovelluksellemme. Työstimme lopuk
 - [Käytetyt menetelmät](#Käytetyt)
 - [Sovelluksen käyttö](#Sovelluksen)
 - [Status](#status)
-- [Tekijät ja lähteet](#Tekijät)
+- [Tekijät ja lähteet](#Tekijät-ja-lähteet)
 - [Lisenssi](#Lisenssi)
 
 ## Tiedot sovelluksesta
