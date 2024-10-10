@@ -27,9 +27,8 @@ Tiedot kirjautuvat Treeniyhteenveto-taulukkoon ja ne pysyvät muuttumattomina ni
 Taulukon alle, sovellus laskee kategorioittain prosentteina ja tunteina, kuinka pal-jon mitäkin urheilulajia on harjoitettu. Taulukon voi tyhjentää helposti käyttämäl-lä tyhjennä nappulaa, jolloin ohjelma antaa käyttäjälle ilmoituksen, että olet tyh-jentämässä taulukon.
 
 ## Kuvia sovelluksesta
-Add here atleast one screenshot of the working application 
-## Kuvia sovelluksesta
 ![Sovelluksen kuvakaappaus](kuvalaskurista.png)
+
 ## Käytetyt menetelmät
 Teknologiat, joita käytimme tämän projektin tekemiseen olivat html, css sekä Javascript.
 
