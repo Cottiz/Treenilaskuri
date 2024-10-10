@@ -7,7 +7,7 @@ Pääset supertreenilaskuriimme täältä:
 ## Työnjako
 Yhteistyömme sujui mutkattomasti ja saimme jaettua tehtävät hyvin ja reilusti.
 
-Kati teki suurimman työn koodatessaan pohjan sovelluksellemme. Työstimme lopuksi kuitenkin yhdessä JavaScript toimintoja ja viimeistelimme sivun ulkomuodon. Lydialla oli päävastuu raportin kirjoittamisessa, mutta kaiken kaikkiaan teimme projektin pääosin yhdessä miettien. Koimme tekemisen helpommaksi ns. ”kaksien silmien ja aivojen taktiikalla”. 
+Työstimme yhdessä JavaScript toimintoja ja viimeistelimme sivun ulkomuodon. Kaiken kaikkiaan teimme projektin pääosin yhdessä miettien. Tapasimme Teamsissa sekä koululla. Koimme tekemisen helpommaksi ns. ”kaksien silmien ja aivojen taktiikalla”. 
 
 ## Sisältö:
 - [Tiedot sovelluksesta](#Tiedot-sovelluksesta)
