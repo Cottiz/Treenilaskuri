@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const entry = { activity, hours, description, date };
         data.push(entry);
         localStorage.setItem('treeniData', JSON.stringify(data));
-
+ 
         // Päivitetään taulukko
         renderTable();
 
